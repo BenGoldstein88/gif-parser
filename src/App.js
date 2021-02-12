@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import testImage from "./orange.gif";
+import testImage from "./testImage.gif";
 import React from "react";
 const gifFrames = require("gif-frames");
 
